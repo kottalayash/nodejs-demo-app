@@ -45,10 +45,10 @@ docker run -p 3000:3000 kottalayash/nodejs-demo-app:latest
 
 ## Screenshots
 ### Successful pipeline run
-![Pipeline success](screenshots/pipeline-success.png)
+![Pipeline success](Github.png)
 
 ### Image on DockerHub
-![DockerHub](screenshots/dockerhub.png)
+![DockerHub](Docker.png)
 
 ## What I learned
 - How CI/CD automates testing and deployment
